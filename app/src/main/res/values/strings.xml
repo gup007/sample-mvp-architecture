@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Delivery</string>
+    <string name="title_activity_landing">Delivery</string>
+    <string name="base_url">http://mi-mobile-dev.ap-southeast-1.elasticbeanstalk.com</string>
+</resources>
